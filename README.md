@@ -1,5 +1,5 @@
-[![GoDoc](https://godoc.org/github.com/jsimonetti/berkeleydb?status.svg)](https://godoc.org/github.com/jsimonetti/berkeleydb)
-[![Travis](https://api.travis-ci.org/jsimonetti/berkeleydb.svg?branch=master)](https://travis-ci.org/jsimonetti/berkeleydb)
+[![GoDoc](https://github.com/rootsploix/berkeleydb?status.svg)](https://github.com/rootsploix/berkeleydb)
+
 
 
 # BEWARE #
@@ -21,7 +21,7 @@ package main
 import (
         "fmt"
 
-        "github.com/jsimonetti/berkeleydb"
+        "github.com/rootsploix/berkeleydb"
 )
 
 func main() {
